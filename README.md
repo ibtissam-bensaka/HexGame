@@ -1,2 +1,2 @@
 # HexGame
-web application in java EE
+web application in java 

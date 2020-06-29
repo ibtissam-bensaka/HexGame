@@ -1,0 +1,49 @@
+@charset "ISO-8859-1";
+
+body {
+  background:orange;
+}
+#level1{
+	position:relative;
+  	height:50px;
+  	width:150px;
+ 	background:#006680;
+	text-align: center;
+	font-size:30px;
+ 	background-size: 1px 300%;
+ 	margin: auto;
+ 	margin-top: 150px;
+ 	color:orange;
+  	font-family:shadows into light; 
+  	cursor:pointer;
+  	box-shadow : -4px -4px 5px #006680;
+}
+#level2{
+	position:relative;
+  	height:50px;
+  	width:150px;
+ 	background:#006680;
+	text-align: center;
+	font-size:30px;
+ 	background-size: 1px 300%;
+ 	margin: auto;
+ 	color:orange;
+  	font-family:shadows into light; 
+  	cursor:pointer;
+  	box-shadow : -4px -4px 5px #006680;
+}
+#level3{
+	position:relative;
+  	height:50px;
+  	width:150px;
+ 	background:#006680;
+	text-align: center;
+	font-size:30px;
+ 	background-size: 1px 300%;
+ 	margin: auto;
+ 	color:orange;
+  	font-family:shadows into light; 
+  	cursor:pointer;
+  	box-shadow : -4px -4px 5px #006680;
+}
+

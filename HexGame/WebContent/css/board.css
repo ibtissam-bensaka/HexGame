@@ -1,0 +1,53 @@
+@charset "ISO-8859-1";
+div{
+	 align:center;
+}
+.fond{
+	margin:auto;
+	margin-left: 500px;
+}
+.restart{
+  border:0;
+  background: #191919;
+  display: inline;
+  margin: 20px 0 0 515px;
+  text-align: center;
+  border: 2px solid #0000ff;
+  padding: 14px 40px;
+  outline: none;
+  color: white;
+  border-radius: 24px;
+  transition: 0.25s;
+  cursor: pointer;
+}
+.return{
+ border:0;
+  background: #191919;
+  display: inline;
+  margin: 20px;
+  text-align: center;
+  border: 2px solid #0000ff;
+  padding: 14px 40px;
+  outline: none;
+  color: white;
+  border-radius: 24px;
+  transition: 0.25s;
+  cursor: pointer;
+}
+.next{
+ border:0;
+  background: #191919;
+  /*display: inline;*/
+  margin: 20px;
+  text-align: center;
+  border: 2px solid #0000ff;
+  padding: 14px 40px;
+  outline: none;
+  color: white;
+  border-radius: 24px;
+  transition: 0.25s;
+  cursor: pointer;
+}
+input[type = "button"]:hover{
+  background: #0000ff;
+}
